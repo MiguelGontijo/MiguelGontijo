@@ -45,4 +45,4 @@ Acredito que código limpo não é luxo, é necessidade. Em meus projetos, prior
 
 Estou sempre aberto a discutir arquitetura de software, novos desafios em IA ou oportunidades de colaboração.
 
-[LinkedIn](SEU_LINK_AQUI) • [E-mail](mailto:SEU_EMAIL_AQUI)
+[LinkedIn](https://www.linkedin.com/in/miguelgontijo/) • [E-mail](mailto:mpgontijo84@gmail.com)
